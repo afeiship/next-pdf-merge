@@ -10,5 +10,8 @@ npm install -S @feizheng/next-pdf-merge
 ```js
 import '@feizheng/next-pdf-merge';
 
-//DOCS here!
+nx.pdfMerge({
+  input: './__tests__/docs/*.pdf',
+  output: './__tests__/output.pdf'
+})
 ```
