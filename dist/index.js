@@ -3,7 +3,7 @@
  * description: An npm module to merge PDFs based on pdfbox for next.
  * homepage: https://github.com/afeiship/next-pdf-merge
  * version: 1.0.0
- * date: 2020-11-22 20:01:41
+ * date: 2020-11-22 20:02:56
  * license: MIT
  */
 
